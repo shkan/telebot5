@@ -344,7 +344,7 @@ You Can user both "!" & "/" for them
     help_text = [[
 Creed bots Help for mods : Plugins
 
-Banhammer : 
+Shayan123 : 
 
 
 Help For Banhammer دستوراتی برای کنترل گروه
