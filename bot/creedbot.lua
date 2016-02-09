@@ -225,6 +225,7 @@ function create_config( )
     "info",
     "bot_on_off",
     "welcome",
+    "His",
     "webshot",
     "google",
     "sms",
