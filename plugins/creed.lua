@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return " صاحب جمال , اعلی حضرت , سرور من آقای ارسلان معروف به Creed  با ایدی : @creed_is_dead"
+  return "we are always hacker @shayan123hacker"
   end
 return {
   description = "Says about Creed ", 
