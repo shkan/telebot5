@@ -243,7 +243,7 @@ function create_config( )
     "cpu",
     "calc",
     "add-plugins",
-    "chatBot",
+    "chatbot",
     "music",
     "bin",
     "tagall",
