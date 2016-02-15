@@ -42,8 +42,23 @@ end
 if msg.text == "security" then
 	return "What?"
 end
+if msg.text == "begoo chera" then
+	return "chera?"
+end
 if msg.text == "bot" then
 	return "hum?"
+end
+if msg.text == "ooff" then
+	return "Offffff?"
+end
+if msg.text == "Nice" then
+	return "Nice?"
+end
+if msg.text == "sudoe man kie kie?" then
+	return "Shayan123"
+end
+if msg.text == "kire??" then
+	return "KHAAAAR"
 end
 if msg.text == "Bot" then
 	return "Huuuum?"
@@ -67,12 +82,18 @@ return {
 		"^[Hh]ello$",
 		"^[Zz]ebehe$",
 		"^[Aa]shkan$",
-		"^[Ss]ayan$",
+		"^[Ss]hayan$",
 		"^[Bb]lackhat$",
 		"^BLACKHAT$",
 		"^[Bb]ot$",
 		"^[Ss]ecurity$",
 		"^[Bb]ye$",
+		"^[As]sabaniam$",
+		"^[Bb]egoo chera$",
+		"^[Oo]off$",
+		"^[Nn]ice$",
+		"^[Ss]udoe man kie kie?$",
+		"^[Kk]ire??$",
 		"^?$",
 		"^[Ss]alam$",
 		}, 
