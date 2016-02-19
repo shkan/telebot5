@@ -226,6 +226,7 @@ function create_config( )
     "quotes",
     "trivia",
     "vote",
+    "foshlock",
     "weather",
     "antitag",
     "gps",
