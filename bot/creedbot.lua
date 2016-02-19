@@ -248,6 +248,7 @@ function create_config( )
     "music",
     "bin",
     "tagall",
+    "salam",
     "text",
     "info",
     "bot_on_off",
