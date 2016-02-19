@@ -22,7 +22,10 @@ if msg.text == "blackhat" then
 	return "my love blackhat"
 end
 if msg.text == "shayan" then
-	return "my love blackhat"
+	return "My developer"
+end
+if msg.text == "Mehdi" then
+	return "My developer"
 end
 if msg.text == "zebehe" then
 	return "my love Boobs"
@@ -91,6 +94,7 @@ return {
 		"^[As]sabaniam$",
 		"^[Bb]egoo chera$",
 		"^[Oo]off$",
+		"^Mehdi",
 		"^[Nn]ice$",
 		"^[Ss]udoe man kie kie?$",
 		"^[Kk]ire??$",
